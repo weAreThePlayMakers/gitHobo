@@ -4,13 +4,17 @@
 
 ### what the hell is this markdown thingy anyway?!
 
-gitHobo is a simple text document, like the one you are reading just now; and exactly as in case of this text it is written using Github flavoured markdown. 
+gitHobo is a simple text document, like the one you are reading just now; and exactly as in case of this text it is also written with Github flavoured markdown. 
 
-so what exactly is this markdown; essentially from end user perspective it is only a little more than plain text. it introduces few additional “tags” which communicate with the browser and make text cleaner, easier to navigate and a lot easier to reference. it also adds a layer for direct communication of your text with modern web browsers and given we can use some perks of html5 it gives access to quite powerful features
+so what exactly is this markdown; essentially from end user perspective it is only a little more than plain text. it introduces few additional “tags” which communicate with the browser and make text cleaner, easier to navigate and a lot easier to reference. 
+
+[check out mastering markdown on gitHub for 3 min long intro][1]
+
+which is why it allows for adding another layer of information and enables your text to communicate directly with modern web browsers and given a lot of new perks provided by modern web tech it could gives access to quite powerful features
 
 ### there are robots in the basement
 
-most importantly though it could open a channel of communication with your IT department and robots from there who seem to be speaking completely different language 
+most importantly though it could open a channel for communication with your standard IT departments and robots inhabiting these places traditionally placed in under inhabiting these wo world traditionally from there who seem to be speaking completely different language 
 
 having such possibility could allow for communicating requirements in a way that is machine readible and could be parsed in a robotic manner
 
@@ -93,3 +97,6 @@ research a topic of interest write and
 easier 
 
 > written by [rafszul](https://github.com/rafszul) + [weAreThePlayMakers](http://wearetheplaymakers.com/) with [StackEdit](https://stackedit.io/)
+
+
+  [1]: https://guides.github.com/features/mastering-markdown/
