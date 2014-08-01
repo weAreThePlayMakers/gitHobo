@@ -1,5 +1,4 @@
-
-## githobo is your Github Buddy 
+##leaders communicate
 ---
 
 ### what the hell is this markdown thingy anyway?!
@@ -47,6 +46,9 @@ oh yes we do! long live the queen! now help me plant the explosives! I've covere
 there are some guidelines we have to follow and as already mentioned you can find a lot of very useful info aas well as other materials on pages prepared by dgs team who are doing really great job on the robots side so big kudos in their direction 
 
 in situations where humans or their sensitive data is involved we would all like to make sure those who handle this data know the power at their fingertips 
+
+## managers colaborate
+---
 
 ### so whats the price?
 
