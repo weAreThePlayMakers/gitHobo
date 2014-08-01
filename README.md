@@ -69,15 +69,15 @@ gitHobo is our active response to the feelings we often had that we ourselves ha
 
 
 
-in short gitHobo is a bootstrap coming to city hall via calendar app on mayors receptionists smart phone. how more grassroots revolutionary can you get?
+in short gitHobo is a bootstrap coming to the city hall with explosives and demolition equipment via calendar app on the smartphone of mayor's receptionist who happen to be the only constant in mayors dealings with the public. 
 
-### method for the revolution
+can you get more grassroots revolutionary than that?
 
- gitHobo is fully for such proletarian revolution and there are others who agitate for such revolution 
+### so what is the method for the revolution
+
+ 
 
 
-
-back door to the pocket of a mayor  tries to resolve this serious security by providing fairly easy 
 
 communicate with your browser are mainly for your browser  (think of them with some simple markup (or tags added to flowchart or a workflow which is a starting point to writing a blog copy.
  communicate with your browser are mainly for your browser  (think of them with some simple markup (or tags added to flowchart or a workflow which is a starting point to writing a blog copy. 
