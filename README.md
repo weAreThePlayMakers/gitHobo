@@ -1,5 +1,37 @@
-##leaders communicate
+## leaders communicate
 ---
+
+### any leaders around here? that's what i thought
+
+The aim is to provide you my friend with an easy mthod to adapt to reality of social software development. 
+
+### what does it mean to go "GitHub Commando" 
+
+- as little additional burden as possible; 
+- at minimal cost (preferably 0) 
+- short sets of instructions
+- 20-30 min per day
+- for minimum 3 months 
+
+ideally and based on my previous experience whole set should take about 3 months which could be extended for another 3 if projects and individuals involved feel there is a need for more comprehensive training in one area or another. 
+
+### The outcome
+
+those taking part will at the end of 3 months period find themselves with a number of folders on their Dropbox, Google Drive or similar cloud storage service with variety of "unTangible" stuff. The main and most current version of each one of these folders will have its repository on gitHub, with presentable and neat readme.md file. this file written in markdown will explain insides of each folder in a structured manner accessible to coders and everyone else who could see a potential to use their own skills or expertise to enhance any of the projects.
+
+Skills mastered during this time: 
+
+how do you learn heavy duty geekery in a week? 
+
+You don't. 
+
+You make a hard copy of heavy documentation and pay attention to the rule at the back: 
+
+“don't panic” 
+
+just remember to take your towel
+
+## "and now for something completely different"
 
 ### what the hell is this markdown thingy anyway?!
 
@@ -37,11 +69,15 @@ have you seen how long it is though to make up a typical one page web app?
 
 the power of the robotic methods require certain standard and secure handling of data require skills, experience and infrastructure well beyond abilities of any one person with average familiarity with technology 
 
-look at the breakdown of skills a provider of a service to Gcloud would have to consider necessary to cover in order to build a service that could be offered via governmental cloud store 
+look at the breakdown of skills a provider of a service to Gcloud would have to consider necessary to cover in order to build a service that could be offered via governmental cloud store
 
-### here comes the cavalry! don't we just love the industry? 
+there are price tags. and ...
 
-oh yes we do! long live the queen! now help me plant the explosives! I've covered the pillar on the right and there are some people doing the one on the left I've heard the guys from dgs went to do some more on the other side and i hope they might think of doing something about the civilians 
+### here comes cavalry! don't we just love the industry? 
+
+"oh yes we do!" "long live the queen! now help me plant the explosives! I've covered the pillar on the right and there are some people doing the one on the left I've heard the guys from dgs went to do some more on the other side and i hope they might think of doing something about the civilians"
+
+### it's all about minimising colateral damage
 
 there are some guidelines we have to follow and as already mentioned you can find a lot of very useful info aas well as other materials on pages prepared by dgs team who are doing really great job on the robots side so big kudos in their direction 
 
@@ -73,11 +109,7 @@ in short gitHobo is a bootstrap coming to the city hall with explosives and demo
 
 can you get more grassroots revolutionary than that?
 
-### so what is the method for the revolution
-
- 
-
-
+### so what is the method again and when did we start all these revolutionary proclamations
 
 communicate with your browser are mainly for your browser  (think of them with some simple markup (or tags added to flowchart or a workflow which is a starting point to writing a blog copy.
  communicate with your browser are mainly for your browser  (think of them with some simple markup (or tags added to flowchart or a workflow which is a starting point to writing a blog copy. 
