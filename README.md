@@ -1,10 +1,11 @@
----
+
 ## leaders communicate
+
 ---
 
-### any leaders around here? that's what i thought
+### any leaders around here?
 
-The aim is to provide you my friend with an easy mthod to adapt to reality of social software development. 
+The aim is to provide you my friend with an easy method to adapt to reality of social software development. 
 
 ### what does it mean to go "GitHub Commando" 
 
