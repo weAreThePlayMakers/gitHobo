@@ -9,8 +9,6 @@
 <script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote>
-  <iframe width="560" height="315" src="//www.youtube.com/embed/kgicuytCkoY" frameborder="0" allowfullscreen=""></iframe> 
-  
   <p>t/h <a href="https://twitter.com/noelito">@noelito</a> and most of all of course <a href="https://twitter.com/rushkoff">@rushkoff</a></p>
 </blockquote><div class="se-section-delimiter"></div>
 
