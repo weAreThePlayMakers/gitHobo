@@ -11,7 +11,7 @@ by[prekel](http://instagram.com/prekel)
 ----------
 
 
-link to [original mood board](https://www.dropbox.com/sh/g08kalw5a2ig54e/AACUXCdevLE87DlCgRZ6LH-2a)
+link to [original mood board](https://www.dropbox.com/sh/g08kalw5a2ig54e/AACUXCdevLE87DlCgRZ6LH-2a) and final gitHoboLogo001-1 by [rafszul](https://github.com/rafszul)
 
 
 
