@@ -23,4 +23,4 @@ both playlists from [Code Cascade youtube channel](https://www.youtube.com/user/
 > written by [rafszul](https://github.com/rafszul) + [weAreThePlayMakers](http://wearetheplaymakers.com/) with [StackEdit](https://stackedit.io/)
 
 
-  [1]: https://raw.githubusercontent.com/weAreThePlayMakers/gitHobo/master/assets/img/gitHoboTaxiMain002-0-855x565.png
+  [1]: https://raw.githubusercontent.com/weAreThePlayMakers/gitHobo/master/assets/img/exported/png/img/gitHobo1663x680Yellow.png
