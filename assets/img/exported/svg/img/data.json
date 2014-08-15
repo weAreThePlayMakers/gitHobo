@@ -1,0 +1,119 @@
+{
+	"name": "gitHoboTaxiMain002-6.ai",
+	"width": 5842,
+	"height": 2391,
+	"layers": [
+		{
+			"x": "46.42",
+			"y": "2784.59",
+			"r": "2803.21",
+			"b": "5237.73",
+			"width": "2756.79",
+			"height": "2453.14",
+			"layername": "gitHoboLogo 3.svg",
+			"name": "gitHoboLogo-3",
+			"type": "svg",
+			"filename": "gitHoboLogo-3.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "-0.00",
+			"r": "5841.15",
+			"b": "2390.02",
+			"width": "5841.15",
+			"height": "2390.02",
+			"layername": "gitHobo5841x2390.svg",
+			"name": "gitHobo5841x2390",
+			"type": "svg",
+			"filename": "gitHobo5841x2390.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "4178.11",
+			"y": "3599.97",
+			"r": "5841.15",
+			"b": "4280.43",
+			"width": "1663.04",
+			"height": "680.46",
+			"layername": "gitHobo1663x680.svg",
+			"name": "gitHobo1663x680",
+			"type": "svg",
+			"filename": "gitHobo1663x680.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "8692.88",
+			"y": "-1867.04",
+			"r": "9659.19",
+			"b": "-795.47",
+			"width": "966.31",
+			"height": "1071.57",
+			"layername": "gitHobo871x1071Yellow.svg",
+			"name": "gitHobo871x1071Yellow",
+			"type": "svg",
+			"filename": "gitHobo871x1071Yellow.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "6902.03",
+			"y": "-1726.40",
+			"r": "7866.01",
+			"b": "-799.87",
+			"width": "963.98",
+			"height": "926.53",
+			"layername": "gitHobo871x1071.svg",
+			"name": "gitHobo871x1071",
+			"type": "svg",
+			"filename": "gitHobo871x1071.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "4178.11",
+			"y": "2654.91",
+			"r": "5841.15",
+			"b": "3335.37",
+			"width": "1663.04",
+			"height": "680.46",
+			"layername": "gitHobo1663x680Yellow.svg",
+			"name": "gitHobo1663x680Yellow",
+			"type": "svg",
+			"filename": "gitHobo1663x680Yellow.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "-2607.60",
+			"r": "5841.15",
+			"b": "-217.57",
+			"width": "5841.15",
+			"height": "2390.03",
+			"layername": "gitHobo5841x2390Yellow.svg",
+			"name": "gitHobo5841x2390Yellow",
+			"type": "svg",
+			"filename": "gitHobo5841x2390Yellow.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		}
+	]
+}
