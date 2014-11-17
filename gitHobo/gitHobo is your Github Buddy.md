@@ -6,13 +6,13 @@
 
 gitHobo is a simple text document, like the one you are reading just now; and exactly as in case of this text it is written using Github flavoured markdown. 
 
-so what exactly is this markdown; essentially from end user perspective it is only a little more than plain text. it introduces few additional “tags” which communicate with the browser and make text cleaner, easier to navigate and a lot easier to reference. it also adds a layer for direct communication of your text with modern web browsers and given we can use some perks of html5 it gives access to quite powerful features
+so what exactly is this markdown; essentially from end user perspective it is only a little more than plain text. it introduces few additional “tags” which communicate with a server <!--(the server has to be configured for Markdown support)-->    hosting the file and make text cleaner, easier to navigate and a lot easier to reference. it also adds a layer for direct communication of your text with modern web browsers and given we can use some perks of html5 it gives access to quite powerful features
 
 ### there are robots in the basement
 
 most importantly though it could open a channel of communication with your IT department and robots from there who seem to be speaking completely different language 
 
-having such possibility could allow for communicating requirements in a way that is machine readible and could be parsed in a robotic manner
+having such possibility could allow for improved feedback loop if not any feedback loop making communication of requirements actually understandable to freaks from there. Why is this important? well
 
 ### these robots are powering your web app
 
@@ -40,13 +40,13 @@ look at the breakdown of skills a provider of a service to Gcloud would have to 
 
 oh yes we do! long live the queen! now help me plant the explosives! I've covered the pillar on the right and there are some people doing the one on the left I've heard the guys from dgs went to do some more on the other side and i hope they might think of doing something about the civilians 
 
-there are some guidelines we have to follow and as already mentioned you can find a lot of very useful info aas well as other materials on pages prepared by dgs team who are doing really great job on the robots side so big kudos in their direction 
+there are some guidelines we have to follow and as already mentioned you can find a lot of very useful info as well as other materials on pages prepared by dgs team who are doing really great job on the robots side so big kudos in their direction 
 
 in situations where humans or their sensitive data is involved we would all like to make sure those who handle this data know the power at their fingertips 
 
 ### so whats the price?
 
-there isn't one. we are all for open, free, inclusive and collaborative methods and we will use the best environment currently around for managing collaborative and powering very complex projects. it's github and all that is required is free GitHub account and ability to use text editor and some of your time 
+there isn't one. it's all for the lulz, remember? we are all for open, free, inclusive and collaborative methods and we will use the best environment currently around for managing collaborative and powering very complex projects. it's github and all that is required is free GitHub account and ability to use text editor and some of your time 
 
 time and routines prepared with consideration of habitat of both robots and humans are the key to reduce the colatteral damage
 
@@ -63,18 +63,59 @@ gitHobo is our active response to the feelings we often had that we ourselves ha
 
 
 
-in short gitHobo is a bootstrap coming to city hall via calendar app on mayors receptionists smart phone. how more grassroots revolutionary can you get?
+*in short gitHobo is a bootstrap coming to city hall via calendar app on mayors receptionists smart phone. how more grassroots revolutionary can you get?*
 
 ### method for the revolution
 
- gitHobo is fully for such proletarian revolution and there are others who agitate for such revolution 
+in it's communication gitHobo does not concern itself with aims or destinations; it doesn't care where? but how? it is about the process not the aim, its rationale or validity of its initial assumptions.
+
+above being concerned with the process it is however also concerned with participation.
+
+the reason for this is what we consider the most pressing matter and most serious problem for humans as a species 
+
+we consider the following to be true: 
+
+- we are social animals and need each other to live and thrive 
+- information exchange from basic body language to most advanced methods used in cryptography forms the basis of any social interaction
+- internet and web technologies are the single most advanced form of such social interaction
+- it is already evident that we are the internet of things
+- there is no possibility of stoping the process of integrating all humans within the network
+- level of participation and control in any particular case is however dependant on ability to understand the technology that powers the network and often very complicated processes that are involved
+- without this understanding individuals are exposed to abuse and often are unaware of oportunities that are available to them
+- in technology dominated reality the rule is simple: "program or be programmed"
+- having the knowledge of some of the technologies we see how this is a major problem
+- which is why the process becomes crucial as it provides common platform for making decisions that are common to various fields or are cutting through artificially set up lines
+- 
 
 
 
-back door to the pocket of a mayor  tries to resolve this serious security by providing fairly easy 
 
-communicate with your browser are mainly for your browser  (think of them with some simple markup (or tags added to flowchart or a workflow which is a starting point to writing a blog copy.
- communicate with your browser are mainly for your browser  (think of them with some simple markup (or tags added to flowchart or a workflow which is a starting point to writing a blog copy. 
+ross  on which as a community of experts we can take care of our own field knowing in other fields there are 
+
+our most advanced take on social interaction
+
+
+which leads to the importance of 
+
+the necesseary  factor the most basic block s for any social interaction
+- starting  
+
+the technology and computers in particular are necesseary for basis for recent 
+
+are facing now 
+
+
+proletarian revolution and there are others who agitate for it as well
+
+however all involved seem to be in agreement gitHobo does not like the idea of monkey purges and bloody revolution style takeovers. beeing what we are, geeky experts in various more or less technical fields we opt for what we were doing all along. set up the machinery in such a way so monkeys can play at the steering wheel still thinking they are driving the bus while we look for solution that would involve as many people as possible and allow for cooperation despite the number and variety of those involved
+
+with this being said gitHobo's short definition states: 
+
+*gitHobo is bootstrap coming to city hall via calendar app on mayors receptionists smart phone. consider this as a challange and try to get more grassroots revolutionary. most of all fork us and let us know about your method*
+
+the chalange is in our view necessery as inherent to geeky culture of continous testing and improvement within a group of coders 
+
+
 
 In short it lists steps an editor/writer would have to take from initial idea for a story to final publication of well written and rich in metadata copy for the web.
 
@@ -89,7 +130,5 @@ Edits
 
 research a topic of interest write and 
 
-
-easier 
 
 > written by [rafszul](https://github.com/rafszul) + [weAreThePlayMakers](http://wearetheplaymakers.com/) with [StackEdit](https://stackedit.io/)
