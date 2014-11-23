@@ -4,4 +4,5 @@
 * [Resources](resources/README.md)
    * [4Teachers](resources/4teachers.md)
        * [onTheWeb](resources/ontheweb.md)
+* [Chapter](chapter/README.md)
 
