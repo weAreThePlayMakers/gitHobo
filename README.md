@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/weAreThePlayMakers/gitHobo.png?label=ready&title=Ready)](https://waffle.io/weAreThePlayMakers/gitHobo)
 
 ### gitHobo is your gitHub buddy
 
