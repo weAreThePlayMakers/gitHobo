@@ -5,4 +5,3 @@
    * [4Teachers](resources/4teachers.md)
        * [onTheWeb](resources/ontheweb.md)
 * [Chapter](chapter/README.md)
-

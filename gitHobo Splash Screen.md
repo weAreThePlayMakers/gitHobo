@@ -18,7 +18,7 @@ and Graphing Data with HTML5 Animation
 
 ---
 
-both playlists from [Code Cascade youtube channel](https://www.youtube.com/user/itknowledgecentral) 
+both playlists from [Code Cascade youtube channel](https://www.youtube.com/user/itknowledgecentral)
 
 > written by [rafszul](https://github.com/rafszul) + [weAreThePlayMakers](http://wearetheplaymakers.com/) with [StackEdit](https://stackedit.io/)
 

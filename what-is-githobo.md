@@ -29,7 +29,7 @@ credit where the credit's due:
 
 - [theRSAorg](https://twitter.com/theRSAorg):
   Gaia Marcus - [la_gaia](https://twitter.com/la_gaia)
- 
+
 
 
 ----------
@@ -37,7 +37,3 @@ credit where the credit's due:
 [background image](https://raw.githubusercontent.com/weAreThePlayMakers/gitHobo/master/assets/img/gitHoboTaxi005-2-350x350.jpg)
 
 > written by [rafszul](https://github.com/rafszul) + [weAreThePlayMakers](http://wearetheplaymakers.com/) with [StackEdit](https://stackedit.io/)
-
-
-
-  
