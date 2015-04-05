@@ -4,7 +4,7 @@
 
 ---
 
-![gitHobo is your gitHub buddy][1]
+[![gitHobo is your gitHub buddy][1]](http://githobo.tumblr.com/)
 
 ----------
 
