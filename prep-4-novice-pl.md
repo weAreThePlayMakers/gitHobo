@@ -1,5 +1,8 @@
 #na poczatku ... 
 
+> sluchaj lukasz tu masz link do tego samego textu siedzacego w katalogu na github https://github.com/weAreThePlayMakers/gitHobo/blob/master/prep-4-novice-pl.md
+> jak bym mogl cie prosic o wprowadzenie popraweg gdybys wypatrzyl jakies `ort` i takie tam podobne. znasz moja bozlifa snajomosc s ortokrafja wjec bym byl wdzieczny o poprawki ;-) daj znak to popchniemy wuzek kilka krokow do przodu a ja juz ci cos zaczalem skrobac do kupy.
+
 ##poczatek:
 
 moje zrozumienie jest takie ze chcial bys szybko i skutecznie polozyc lapki na profesjonalnie zbudowanej i schludnie wygladajacej strone internetowej. rozumiem rowniez ze nie masz nigdzie pod reka wiader wypelnionych banknotami i najlepiej by bylo zeby cale przedsiewziecie nie puscilo cie z torbami zanim jeszcze sie zdazyles rozpedzic w zdobywaniu popularnosci w cyber-przestrzeni ;-)
