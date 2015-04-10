@@ -1,7 +1,7 @@
 #na poczatku ... 
 
-> sluchaj lukasz tu masz link do tego samego textu siedzacego w katalogu na github https://github.com/weAreThePlayMakers/gitHobo/blob/master/prep-4-novice-pl.md
-> jak bym mogl cie prosic o wprowadzenie popraweg gdybys wypatrzyl jakies `ort` i takie tam podobne. znasz moja bozlifa snajomosc s ortokrafja wjec bym byl wdzieczny o poprawki ;-) daj znak to popchniemy wuzek kilka krokow do przodu a ja juz ci cos zaczalem skrobac do kupy.
+> tu jest link do tego samego textu siedzacego w katalogu na github https://github.com/weAreThePlayMakers/gitHobo/blob/master/prep-4-novice-pl.md
+> gdybys wypatrzyl jakies `ort` i takie tam podobne to bym cie bardzo prosil o wprowadzenie poprawek gdyz ja mam bardzo bozlifa snajomosc s ortokrafja ;-) daj znak jak jusz bedziesz ustawiony
 
 ##poczatek:
 
