@@ -1,0 +1,151 @@
+{
+	"name": "gitHoboTaxiMain003-0.ai",
+	"width": 1662,
+	"height": 756,
+	"layers": [
+		{
+			"x": "-6215.32",
+			"y": "128.59",
+			"r": "-3458.52",
+			"b": "2581.73",
+			"width": "2756.80",
+			"height": "2453.14",
+			"layername": "gitHoboLogo 3.svg",
+			"name": "gitHoboLogo-3",
+			"type": "svg",
+			"filename": "gitHoboLogo-3.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-6261.74",
+			"y": "-2656.00",
+			"r": "-420.58",
+			"b": "-265.98",
+			"width": "5841.16",
+			"height": "2390.02",
+			"layername": "gitHobo5841x2390.svg",
+			"name": "gitHobo5841x2390",
+			"type": "svg",
+			"filename": "gitHobo5841x2390.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-50.36",
+			"y": "943.97",
+			"r": "1612.89",
+			"b": "1700.63",
+			"width": "1663.25",
+			"height": "756.66",
+			"layername": "gitHobo1663x755-mirr.svg",
+			"name": "gitHobo1663x755-mirr",
+			"type": "svg",
+			"filename": "gitHobo1663x755-mirr.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-2083.62",
+			"y": "943.97",
+			"r": "-420.58",
+			"b": "1624.43",
+			"width": "1663.04",
+			"height": "680.46",
+			"layername": "gitHobo1663x680.svg",
+			"name": "gitHobo1663x680",
+			"type": "svg",
+			"filename": "gitHobo1663x680.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "2573.49",
+			"y": "-4398.74",
+			"r": "3340.00",
+			"b": "-3455.87",
+			"width": "766.51",
+			"height": "942.87",
+			"layername": "gitHobo766x942Yellow.svg",
+			"name": "gitHobo766x942Yellow",
+			"type": "svg",
+			"filename": "gitHobo766x942Yellow.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "781.76",
+			"y": "-4382.40",
+			"r": "1548.27",
+			"b": "-3488.02",
+			"width": "766.51",
+			"height": "894.38",
+			"layername": "gitHobo766x942.svg",
+			"name": "gitHobo766x942",
+			"type": "svg",
+			"filename": "gitHobo766x942.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-1.30",
+			"y": "-1.09",
+			"r": "1661.95",
+			"b": "755.56",
+			"width": "1663.25",
+			"height": "756.65",
+			"layername": "gitHobo1663x755Yellow-mirr.svg",
+			"name": "gitHobo1663x755Yellow-mirr",
+			"type": "svg",
+			"filename": "gitHobo1663x755Yellow-mirr.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-2083.62",
+			"y": "-1.09",
+			"r": "-420.58",
+			"b": "679.37",
+			"width": "1663.04",
+			"height": "680.46",
+			"layername": "gitHobo1663x680Yellow.svg",
+			"name": "gitHobo1663x680Yellow",
+			"type": "svg",
+			"filename": "gitHobo1663x680Yellow.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-6261.74",
+			"y": "-5263.60",
+			"r": "-420.58",
+			"b": "-2873.57",
+			"width": "5841.16",
+			"height": "2390.03",
+			"layername": "gitHobo5841x2390Yellow.svg",
+			"name": "gitHobo5841x2390Yellow",
+			"type": "svg",
+			"filename": "gitHobo5841x2390Yellow.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		}
+	]
+}
